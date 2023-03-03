@@ -26,10 +26,13 @@ The app was built using MERN stack and JWT (JSON Web Tokens) to securely transfe
 
 ## 📘 <a id="setup">Setup</a>:
 
-1. [Download Zip file](https://github.com/IonPara/Todo-app/archive/refs/heads/master.zip)
-2. [Download **Node.js**](https://nodejs.org/dist/v18.13.0/node-v18.13.0-x64.msi)
-3. Navigate to project's server directory, run: **npm install** **npm start**
-4. Navigate to project's client directory, run: **npm install** **npm start**
+1. [Download client side zip file](https://github.com/IonPara/books-store-app-client/archive/refs/heads/main.zip)
+2. [Download server zip file](https://github.com/IonPara/Todo-app-server/archive/refs/heads/main.zip)
+3. [Download **Node.js**](https://nodejs.org/dist/v18.13.0/node-v18.13.0-x64.msi)
+4. Navigate to project's Todo-app-client directory
+5. Run: **npm install**, **npm start**
+6. Navigate to project's \Todo-app-server directory, create an environment variable called API_KEY and add your MongoDB api key, create an environment variable called ACCESS_TOKEN and create a key for JWT verification.
+7. Run: **npm install**, **npm start**
 
 
 https://user-images.githubusercontent.com/84988051/218121800-e61b12b8-f247-4698-a6da-119749227402.mp4
