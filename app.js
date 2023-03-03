@@ -6,6 +6,9 @@ const logger = require("morgan");
 const PORT = process.env.PORT || 5000;
 const bodyParser = require("body-parser");
 const mongoose = require("mongoose");
+const cors = require("cors");
+
+app.use(cors());
 
 const indexRouter = require("./routes/index");
 const usersRouter = require("./routes/users");
