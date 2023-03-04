@@ -8,7 +8,7 @@
 
  ## 📑 General Information:
  This repository is the backend of a full stack MERN application.
-The project contains a web application, the app is interactive and it lets the user to sign up and save his/her to do list.
+The project contains a web application. The app is interactive and it lets the user to sign up and save his/her to do list.
 The app was built using MERN stack and JWT (JSON Web Tokens) to securely transfer the information.
 
 
@@ -27,7 +27,7 @@ The app was built using MERN stack and JWT (JSON Web Tokens) to securely transfe
 
 ## 📘 <a id="setup">Setup</a>:
 
-1. [Download client side zip file](https://github.com/IonPara/books-store-app-client/archive/refs/heads/main.zip)
+1. [Download client side zip file](https://github.com/IonPara/Todo-app-client/archive/refs/heads/main.zip)
 2. [Download server side zip file](https://github.com/IonPara/Todo-app-server/archive/refs/heads/main.zip)
 3. [Download **Node.js**](https://nodejs.org/dist/v18.13.0/node-v18.13.0-x64.msi)
 4. Navigate to project's Todo-app-client directory
