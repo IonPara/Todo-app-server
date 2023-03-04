@@ -1,4 +1,4 @@
-# Todo-app
+# Todo-app-server
 
 📃 **Content:**
 - [General Information ](#General-Information)
@@ -7,25 +7,42 @@
 - [Contact](#contact)
 
  ## 📑 General Information:
- This repository is the backend of a full stack MERN application.
+This repository is the backend-end of a full stack MERN application.
 The project contains a web application. The app is interactive and it lets the user to sign up and save his/her to do list.
-The app was built using MERN stack and JWT (JSON Web Tokens) to securely transfer the information.
+
+The app is built using MongoDB, Express, React, and Node.js (the MERN stack).<br>
+<pre>● It creates, reads, updates, and deletes (CRUD) information from MongoDB.</pre>
+
+<b>Here are some of the measures taken to ensure the security of this app:</b> <br>
+<pre>● The app authenticates users using JWT (JSON Web Tokens) to safely transmit the information between client and server.
+● The API keys are saved as environment variables.</pre> 
+
+:floppy_disk: The app was deployed on [render.com](https://render.com/)
+ <pre>  Back-end and front-end separately to make the app safer, easier to upgrade and easier to debug.</pre>
+
+The goal of this project is to showcase the ability to build and deploy a full stack application. 
 
 
 ### 🔣 <a id="technologies">Technologies used </a>:
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=vscode&theme=light"/>
+<img src="https://img.icons8.com/color/48/null/java-web-token.png"/>
 </p>
 
 ## 📘 <a id="setup">Setup</a>:
+
+## You can visualise it by clicking on the link [here](https://just-read.onrender.com/)
+
+## Or by following these steps :point_down:
 
 1. [Download client side zip file](https://github.com/IonPara/Todo-app-client/archive/refs/heads/main.zip)
 2. [Download server side zip file](https://github.com/IonPara/Todo-app-server/archive/refs/heads/main.zip)
