@@ -40,7 +40,7 @@ The goal of this project is to showcase the ability to build and deploy a full s
 
 ## 📘 <a id="setup">Setup</a>:
 
-## You can visualise it by clicking on the link [here](https://just-read.onrender.com/)
+## You can visualise it by clicking on the link [here](https://todo-app-g1mr.onrender.com/)
 
 ## Or by following these steps :point_down:
 
